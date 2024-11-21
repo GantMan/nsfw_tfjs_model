@@ -10386,9 +10386,9 @@ vega-typings@0.3.53:
     vega-util "^1.7.0"
 
 vega-util@^1.10.0, vega-util@^1.7.0, vega-util@^1.7.1, vega-util@^1.8.0:
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/vega-util/-/vega-util-1.10.0.tgz#edfd8c04f1d269f903976c228820153902c270d4"
-  integrity sha512-fTGnTG7FhtTG9tiYDL3k5s8YHqB71Ml5+aC9B7eaBygeB8GKXBrcbTXLOzoCRxT3Jr5cRhr99PMBu0AkqmhBog==
+  version "1.16.1"
+  resolved "https://registry.yarnpkg.com/vega-util/-/vega-util-1.16.1.tgz#992bf3c3b6e145797214d99862841baea417ba39"
+  integrity sha512-FdgD72fmZMPJE99FxvFXth0IL4BbLA93WmBg/lvcJmfkK4Uf90WIlvGwaIUdSePIsdpkZjBPyQcHMQ8OcS8Smg==
 
 vega-view-transforms@^2.0.3:
   version "2.0.3"
